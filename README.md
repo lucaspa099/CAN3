@@ -1,6 +1,6 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="http://i.imgur.com/qGYobcS.jpg" pltv-name="Pedro Junior Tutoriais" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i.imgur.com/1yuAZPo.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(51) 98435-1782"
+#PLAYLISTV: pltv-logo="http://i.imgur.com/qGYobcS.jpg" pltv-name="Lucas Vasconcelos Tutoriais" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i.imgur.com/1yuAZPo.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(51) 98435-1782"
 
 ################################################################################# Informações da Lista
 
